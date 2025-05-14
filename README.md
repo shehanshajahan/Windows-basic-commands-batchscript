@@ -20,8 +20,6 @@ Adapt paths as needed based on your system configuration.
 
 Execute the necessary commands/batch file for the desired output. 
 
-
-
 # WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
@@ -123,6 +121,10 @@ echo Backup completed successfully!
   del %userprofile%\Documents\*.docx
   echo Backup and deletion completed successfully!
 ```
+## OUTPUT
+
+![image](https://github.com/user-attachments/assets/bf63b7f0-86ba-40ca-adc3-3711f05eb336)
+
 
 # RESULT:
 The commands/batch files are executed successfully.
